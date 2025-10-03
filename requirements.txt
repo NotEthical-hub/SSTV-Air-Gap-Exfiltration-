@@ -1,0 +1,3 @@
+pysstv
+Pillow
+numpy
